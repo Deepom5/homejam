@@ -80,7 +80,7 @@ export default class Responsive extends Component {
   <p>View more <i className="fa fa-long-arrow-right"></i>
 </p>
   <div >
-    <a href="#"><i className="fa fa-ticket"></i></a> 
+    <a href="/#"><i className="fa fa-ticket"></i></a> 
     </div>
   </div>
   
@@ -99,7 +99,7 @@ export default class Responsive extends Component {
   <p>View more <i className="fa fa-long-arrow-right"></i>
 </p>
   <div >
-    <a href="#"><i className="fa fa-ticket"></i></a> 
+    <a href="/#"><i className="fa fa-ticket"></i></a> 
     </div>
   </div>
   
@@ -118,7 +118,7 @@ export default class Responsive extends Component {
   <p>View more <i className="fa fa-long-arrow-right"></i>
 </p>
   <div >
-    <a href="#"><i className="fa fa-ticket"></i></a> 
+    <a href="/#"><i className="fa fa-ticket"></i></a> 
     </div>
   </div>
   
@@ -137,7 +137,7 @@ export default class Responsive extends Component {
   <p>View more <i className="fa fa-long-arrow-right"></i>
 </p>
   <div >
-    <a href="#"><i className="fa fa-ticket"></i></a> 
+    <a href="/#"><i className="fa fa-ticket"></i></a> 
     </div>
   </div>
   
